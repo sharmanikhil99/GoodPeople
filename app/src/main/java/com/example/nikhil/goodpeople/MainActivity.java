@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 //ONE
                 //MORE
                 //SHOT
+                //Avi sucks DICK
             }
         });
     }
