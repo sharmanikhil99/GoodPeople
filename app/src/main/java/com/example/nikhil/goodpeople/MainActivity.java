@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
                 // ROASTER TOASTER BOASTER CHICKEN DOAST GIT WORKFLOW ON YOUR ASS ROASTER BYE
+                //THIS IS MY BRANCH BYE BYE GET TOASTED
             }
         });
     }
